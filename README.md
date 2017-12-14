@@ -1,2 +1,2 @@
 # hackerrank
-solutions of few hackerrank
+solutions of few hackerrank ptoblems
