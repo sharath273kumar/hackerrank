@@ -1,2 +1,2 @@
 # hackerrank
-solutions of fee hackerrank
+solutions of few hackerrank
